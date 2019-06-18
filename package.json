@@ -1,0 +1,17 @@
+{
+  "name": "uniform-body",
+  "version": "0.0.1",
+  "description": "uniform your response body",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "body",
+    "uniform",
+    "response",
+    "http"
+  ],
+  "author": "taccisum",
+  "license": "ISC"
+}
